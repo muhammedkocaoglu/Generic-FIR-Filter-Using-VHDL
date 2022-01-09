@@ -1,1 +1,1 @@
-# User-Configurable-FIR-Filter-Using-VHDL
+# Generic-FIR-Filter-Using-VHDL
